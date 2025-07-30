@@ -96,4 +96,25 @@ footer .social-links a:hover {
   text-align: center;
   color: #0077cc;
   margin-bottom: 20px;
+}#leadership {
+  background-color: #0077cc;
+  color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.leadership-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.leadership-item ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  text-align: left;
+  margin-top: 1rem;
 }
